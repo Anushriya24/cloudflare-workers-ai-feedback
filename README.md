@@ -38,3 +38,8 @@ Analyzes a single piece of customer feedback using Workers AI.
   "themes": ["UX", "Performance", "Billing"],
   "model": "@cf/meta/llama-3.1-8b-instruct"
 }
+
+Live Demo
+
+OpenAPI documentation and live API:
+👉 https://dawn-mouse-3efc.anushriyaroy24.workers.dev
